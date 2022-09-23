@@ -49,6 +49,10 @@ For the EDA portion, we focused on deeply understanding and visualizing the data
 
 ![image](https://user-images.githubusercontent.com/98669438/192011977-1c7d6fa0-c071-4041-be2d-2fd46936224e.png)
 
+### Modeling
+
+To model this data set, we focused on predicting the acceptance of the loan. 
+
 
 
 
