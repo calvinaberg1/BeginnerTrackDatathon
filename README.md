@@ -16,8 +16,6 @@ In this project, we thoroughly worked through the data sceince pipeline, working
 3. Linear Regression
 4. Random Forrest Regression
 
-I'm very proud of this project and the project we were able to achieve with only 24 hours to work on a complex problem.
-
 ### Cleaning
 In the cleaning section, we had to deal with missing values in 13 columns. To handle this, we worked to understand the columns with missing values, and appropriately filled with the necessary fields. In many cases, the missing values were supplements for 0, or for some field (like 'Accepted' for denial_reason).
 
