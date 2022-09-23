@@ -13,6 +13,5 @@ In this project, we thoroughly worked through the data sceince pipeline, working
 I'm incredibly proud of this project and the project we were able to achieve with only 24 hours to work on a complex problem.
 
 ### Cleaning
-In the cleaning section, we had to deal with missing values in the following columns:
-<img width="203" alt="image" src="https://user-images.githubusercontent.com/98669438/192002080-55eda552-0af1-4502-a7df-6e78c24185ea.png">
-
+In the cleaning section, we had to deal with missing values in 13 columns. To handle this, we worked to understand the columns with missing values, and appropriately filled with the necessary fields. In many cases, the missing values were supplements for 0, or for some field (like 'Accepted' for denial_reason). 
+![Heat Map of Missing Values]("C:\Users\calvi\Downloads\heat_map_missing values.png")
