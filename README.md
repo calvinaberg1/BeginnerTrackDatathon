@@ -51,8 +51,19 @@ For the EDA portion, we focused on deeply understanding and visualizing the data
 
 ### Modeling
 
-To model this data set, we focused on predicting the acceptance of the loan. 
+To model this data set, we first focused on predicting the acceptance of the loan. 
 
+We used logistic regression for this task, producing the following results:
+
+![image](https://user-images.githubusercontent.com/98669438/192063927-62c71f13-e7ef-4203-bb83-aa4bbde4128c.png)
+
+Because of the imbalance in the categories, we utilized SMOTE to try to even the imbalance.
+
+![image](https://user-images.githubusercontent.com/98669438/192064497-1688b41c-1e3e-493e-95f1-449d19112438.png)
+
+After this, we moved to predicting interest rate, first using linear regression. We achieved a testing error of .97 using this model. 
+
+We finished our project by attempting to utilize random forrest regression to predict the interest rate. However, we didn't achieve any results better than our linear model.
 
 
 
