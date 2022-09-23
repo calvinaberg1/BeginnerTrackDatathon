@@ -33,9 +33,11 @@ For the EDA portion, we focused on deeply understanding and visualizing the data
 ![image](https://user-images.githubusercontent.com/98669438/192011270-3403b70d-4eef-482f-88f8-c3c41a7c8d7a.png)
 
 *we then started to get more specific and focus on fewer relationships*
+
 ![image](https://user-images.githubusercontent.com/98669438/192011345-2cf90af2-62d8-4b8b-a3a2-e4c6eeef18e4.png)
 
 *we then took a sample of the entire data set and looked at individual relationships*
+
 ![image](https://user-images.githubusercontent.com/98669438/192011748-67135abc-1242-4374-aa26-d87fe2ce28ba.png)
 
 ![image](https://user-images.githubusercontent.com/98669438/192011787-4d6faedf-8be5-41cf-b464-1530acc1367a.png)
