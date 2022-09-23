@@ -28,6 +28,7 @@ In the cleaning section, we had to deal with missing values in 13 columns. To ha
 
 ### EDA
 For the EDA portion, we focused on deeply understanding and visualizing the data in creative and significant ways. We started from the most general and broad visualizations and focussed in on specific relationships. Below are the visualizations we created:
+
 *we started with broadly looking at all correlations*
 
 ![image](https://user-images.githubusercontent.com/98669438/192011270-3403b70d-4eef-482f-88f8-c3c41a7c8d7a.png)
