@@ -10,7 +10,7 @@ In this project, we thoroughly worked through the data sceince pipeline, working
 - Modeling
 - Model Evalutation
 
-*The skills that we were able to work on in this project were:*
+*The skills and models that we used in this project were:*
 1. Logistic Regression
 2. SMOTE oversampling
 3. Linear Regression
